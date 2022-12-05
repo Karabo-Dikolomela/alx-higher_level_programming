@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python3.4
 def new_in_list(my_list, idx, element):
     length = len(my_list)
 
@@ -7,4 +7,4 @@ def new_in_list(my_list, idx, element):
     if 0 <= idx < length:
         new_list[idx] = element
 
-return (new_list)
+    return (new_list)
