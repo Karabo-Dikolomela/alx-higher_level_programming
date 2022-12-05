@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python3.4
 def replace_in_list(my_list, idx, element):
     if idx < 0:
         return (my_list)
@@ -10,4 +10,4 @@ def replace_in_list(my_list, idx, element):
 
     my_list[idx] = element
 
- return (my_list)
+    return (my_list)
