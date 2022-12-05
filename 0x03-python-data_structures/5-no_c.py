@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python3.4
 def no_c(my_string):
     length = len(my_string)
 
